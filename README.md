@@ -85,10 +85,13 @@ Full results in LaTeX format available [here](resources/sdgod_results.tex).
 ### Citation
 
 ```bibtex
-@inproceedings{wu2024gnas,
-  title = {G-NAS: Generalizable Neural Architecture Search for Single Domain Generalization Object Detection},
-  author = {Wu, Fan and Gao, Jinling and Lanqing, HONG and Wang, Xinbing and Zhou, Chenghu and Ye, Nanyang},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  year = {2024},
+@inproceedings{wu2024g,
+  title={G-NAS: Generalizable Neural Architecture Search for Single Domain Generalization Object Detection},
+  author={Wu, Fan and Gao, Jinling and Hong, Lanqing and Wang, Xinbing and Zhou, Chenghu and Ye, Nanyang},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={6},
+  pages={5958--5966},
+  year={2024}
 }
 ```
